@@ -14,8 +14,8 @@ main:
   # - title: "Software"
   #   url: /software/ 
 
-  # - title: "Datasets"
-  #   url: /datasets/ 
+  - title: "Datasets"
+    url: /datasets/ 
 
   - title: "Students"
     url: /students/ 
