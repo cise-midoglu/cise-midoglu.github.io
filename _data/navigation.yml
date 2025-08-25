@@ -17,8 +17,8 @@ main:
   # - title: "Datasets"
   #   url: /datasets/ 
 
-  # - title: "Students"
-  #   url: /students/ 
+  - title: "Students"
+    url: /students/ 
 
   # - title: "Teaching"
   #   url: /teaching/    
