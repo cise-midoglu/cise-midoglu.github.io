@@ -12,22 +12,22 @@ main:
     url: /publications/
 
   - title: "Software"
-    url: /software/ 
+    url: /software/
 
   - title: "Datasets"
-    url: /datasets/ 
+    url: /datasets/
 
   - title: "Students"
-    url: /students/ 
+    url: /students/
 
   # - title: "Teaching"
-  #   url: /teaching/    
+  #   url: /teaching/
 
-  # - title: "Talks"
-  #   url: /talks/       
+  - title: "Talks"
+    url: /talks/ 
 
   # - title: "Community"
-  #   url: /community/  
+  #   url: /community/
 
   # - title: "Funding"
   #   url: /funding/
