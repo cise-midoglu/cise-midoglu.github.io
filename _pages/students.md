@@ -1,11 +1,12 @@
 ---
 layout: archive
-permalink: /students/
 title: "Students"
+permalink: /students/
 author_profile: true
 ---
 
 {% include base_path %}
+
 
 ## PhD Students 
 ---
@@ -104,7 +105,7 @@ author_profile: true
 
 ### 2023
 
-- **Tommy Johan Jacobsen, Christer-Daniel Phan Ton, Martin Tørris Kjone**. _Integrated voting system for soccer match events_. Bachelor Thesis, Oslo Metropolitan University (OsloMet), May 2023.
+- **Tommy Johan Jacobsen, Christer-Daniel Phan Ton, Martin Tørris Kjone**. _Integrated voting system for soccer match events_. Bachelor Thesis, Oslo Metropolitan University (OsloMet), May 2023. [[Video 1](https://www.youtube.com/watch?v=T57W_hHvogg)] [[Video 2](https://www.youtube.com/watch?v=9UMDUv_vXno)]
 
 - **Fredrik Skatvedt, Lars Grotnes Edvardsen, Rahul Uthayakumar**. _Video Clipping Pipeline for Football Highlights_. Bachelor Thesis, Oslo Metropolitan University (OsloMet), May 2023.
 

@@ -99,15 +99,17 @@ Analysis of Game Highlights_. 12th IOE Graduate Conference, 2022. [[PDF](https:/
 
 - Cise Midoglu, Benjamin Ragan-Kelley, Sven-Arne Reinemo, Jon Jahren, Pål Halvorsen. "Chapter 3 Smittestopp Backend". _Smittestopp − A Case Study on Digital Contact Tracing_, edited by Ahmed Elmokashfi, Olav Lysne, Valeriya Naumova, Springer International Publishing, 2022, pp.29-62. **DOI: [10.1007/978-3-031-05466-2_3](https://doi.org/10.1007/978-3-031-05466-2_3)** <i class="fa-solid fa-universal-access"></i>
 
-- Malek Hammou, Cise Midoglu, Steven A. Hicks, Andrea Storås, Saeed Shafiee Sabet, Inga Strümke, Michael A. Riegler, Pål Halvorsen. _Huldra: A framework for collecting crowdsourced feedback on multimedia assets_. 13th ACM Multimedia Systems Conference (MMSys'22), 2022. **DOI: [https://doi.org/10.1145/3524273.3532887](https://doi.org/10.1145/3524273.3532887)** <i class="fa-solid fa-universal-access"></i>
+- Malek Hammou, Cise Midoglu, Steven A. Hicks, Andrea Storås, Saeed Shafiee Sabet, Inga Strümke, Michael A. Riegler, Pål Halvorsen. _Huldra: A Framework for Collecting Crowdsourced Feedback on Multimedia Assets_. 13th ACM Multimedia Systems Conference (MMSys'22), 2022. **DOI: [https://doi.org/10.1145/3524273.3532887](https://doi.org/10.1145/3524273.3532887)** <i class="fa-solid fa-universal-access"></i>
 
-- Andreas Husa, Cise Midoglu, Malek Hammou, Steven A. Hicks, Dag Johansen, Tomas Kupka, Michael A. Riegler, Pål Halvorsen. _Automatic thumbnail selection for soccer videos using machine learning_. 13th ACM Multimedia Systems Conference (MMSys'22), 2022. **DOI: [https://doi.org/10.1145/3524273.3528182](https://doi.org/10.1145/3524273.3528182)** <i class="material-icons">verified</i> <i class="fa-solid fa-universal-access"></i>
+- Andreas Husa, Cise Midoglu, Malek Hammou, Steven A. Hicks, Dag Johansen, Tomas Kupka, Michael A. Riegler, Pål Halvorsen. _Automatic Thumbnail Selection for Soccer Videos using Machine Learning_. 13th ACM Multimedia Systems Conference (MMSys'22), 2022. **DOI: [https://doi.org/10.1145/3524273.3528182](https://doi.org/10.1145/3524273.3528182)** <i class="material-icons">verified</i> <i class="fa-solid fa-universal-access"></i>
 
-- Andreas Husa, Cise Midoglu, Malek Hammou, Pål Halvorsen, Michael A. Riegler. _HOST-ATS: automatic thumbnail selection with dashboard-controlled ML pipeline and dynamic user survey_. 13th ACM Multimedia Systems Conference (MMSys'22), 2022. **DOI: [10.1145/3524273.3532908](https://doi.org/10.1145/3524273.3532908)** <i class="fa-solid fa-universal-access"></i>
+- Andreas Husa, Cise Midoglu, Malek Hammou, Pål Halvorsen, Michael A. Riegler. _HOST-ATS: Automatic Thumbnail Selection with Dashboard-Controlled ML Pipeline and Dynamic User Survey_. 13th ACM Multimedia Systems Conference (MMSys'22), 2022. **DOI: [10.1145/3524273.3532908](https://doi.org/10.1145/3524273.3532908)** <i class="fa-solid fa-universal-access"></i>
 
 - Cise Midoglu, Mariana Avelino, Shri Hari Gopalakrishnan, Stefan Pham, Pål Halvorsen. _Multimedia streaming analytics: quo vadis?_. 1st Mile-High Video Conference (MHV'22), 2022. **DOI: [10.1145/3510450.3517321](https://doi.org/10.1145/3510450.3517321)** <i class="fa-solid fa-universal-access"></i>
 
 - Cise Midoglu, Steven A. Hicks, Vajira Thambawita, Tomas Kupka, Pål Halvorsen. _MMSys'22 Grand Challenge on AI-based Video Production for Soccer_. arXiv, 2022. **DOI: [10.48550/arXiv.2202.01031](https://doi.org/10.48550/arXiv.2202.01031)** <i class="fa-solid fa-universal-access"></i>
+
+- Cise Midoglu. _Empirical Analysis of QoS and QoE in Mobile Broadband Networks_. PhD Thesis, University of Oslo (UiO), April 2022. [[UiO Record](https://www.mn.uio.no/ifi/forskning/aktuelt/arrangementer/disputaser/2022/Midoglu.html)]
 
 ## 2021
 
@@ -149,7 +151,7 @@ Analysis of Game Highlights_. 12th IOE Graduate Conference, 2022. [[PDF](https:/
 
 - Chad Jarvis, Cise Midoglu, Andra Lutu, Ozgu Alay. _Visualizing Mobile Coverage from Repetitive Measurements on Defined Trajectories_. Network Traffic Measurement and Analysis Conference (TMA), 2018. **DOI: [10.23919/TMA.2018.8506487](https://doi.org/10.23919/TMA.2018.8506487)**
 
-- Cise Midoglu, Mohamed Moulay, Vincenzo Mancuso, Özgü Alay, Andra Lutu, Carsten Griwodz. _Open video datasets over operational mobile networks with MONROE_. 9th ACM Multimedia Systems Conference (MMSys'18), 2018. **DOI: [10.1145/3204949.3208138](https://doi.org/10.1145/3204949.3208138)**
+- Cise Midoglu, Mohamed Moulay, Vincenzo Mancuso, Özgü Alay, Andra Lutu, Carsten Griwodz. _Open Video Datasets over Operational Mobile Networks with MONROE_. 9th ACM Multimedia Systems Conference (MMSys'18), 2018. **DOI: [10.1145/3204949.3208138](https://doi.org/10.1145/3204949.3208138)** [[PDF](https://monroe.nntb.no/wp-content/uploads/2018/09/monroe-mmsys18.pdf)] <i class="fa-solid fa-universal-access"></i>
 
 - Cise Midoglu, Leonhard Wimmer, Andra Lutu, Özgü Alay, Carsten Griwodz. _MONROE-Nettest: A configurable tool for dissecting speed measurements in mobile broadband networks_. IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), 2018. **DOI: [10.1109/INFCOMW.2018.8406836](https://doi.org/10.1109/INFCOMW.2018.8406836)** [<i class="fas fa-award"></i> [<span style="color: green;">Best paper award</span>](https://infocom2018.ieee-infocom.org/content/workshop-cnert-computer-and-networking-experimental-research-using-testbeds-program.html)]
 
@@ -163,9 +165,9 @@ Analysis of Game Highlights_. 12th IOE Graduate Conference, 2022. [[PDF](https:/
 
 ## 2016
 
-- Cise Midoglu, Leonhard Wimmer, Philipp Svoboda. _Server link load modeling and request scheduling for crowdsourcing-based benchmarking systems_. IEEE International Wireless Communications and Mobile Computing Conference (IWCMC), 2016. **DOI: [10.1109/IWCMC.2016.7577193](https://doi.org/10.1109/IWCMC.2016.7577193)**
+- Cise Midoglu, Leonhard Wimmer, Philipp Svoboda. _Server Link Load Modeling and Request Scheduling for Crowdsourcing-Based Benchmarking Systems_. IEEE International Wireless Communications and Mobile Computing Conference (IWCMC), 2016. **DOI: [10.1109/IWCMC.2016.7577193](https://doi.org/10.1109/IWCMC.2016.7577193)**
 
-- Cise Midoglu, Philipp Svoboda. _Opportunities and challenges of using crowdsourced measurements for mobile network benchmarking - a case study on RTR Open Data_. SAI Computing Conference (SAI), 2016. **DOI: [10.1109/SAI.2016.7556101](https://doi.org/10.1109/SAI.2016.7556101)**
+- Cise Midoglu, Philipp Svoboda. _Opportunities and Challenges of Using Crowdsourced Measurements for Mobile Network Benchmarking: A Case Study on RTR Open Data_. SAI Computing Conference (SAI), 2016. **DOI: [10.1109/SAI.2016.7556101](https://doi.org/10.1109/SAI.2016.7556101)**
 
 - Cise Midoglu. _Smartphone-Based Crowdsourcing for Mobile Network Benchmarking_. Vienna Young Scientists Symposium (VSS), 2016. [[TU Wien Record](http://hdl.handle.net/20.500.12708/75251)]
 

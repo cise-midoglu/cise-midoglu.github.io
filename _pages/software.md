@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /software/
 title: "Open-Source Software"
+permalink: /software/
 author_profile: true
 ---
 
