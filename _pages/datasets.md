@@ -12,7 +12,7 @@ author_profile: true
 ---
 
 - **REST:** Dataset for exploring sleep patterns and influencing factors in elite female football [[Dataset](https://zenodo.org/records/16937033)] <!-- [[Paper](TBC)] -->
-- **ExposureEngine:** Dataset for oriented logo detection and sponsor visibility analytics [[Dataset](https://huggingface.co/datasets/SimulaMet-HOST/ExposureEngine)] <!-- [[Paper](TBC)] -->
+- **ExposureEngine:** Dataset for oriented logo detection and sponsor visibility analytics [[Dataset](https://huggingface.co/datasets/SimulaMet-HOST/ExposureEngine)] [[Paper](https://arxiv.org/abs/2510.04739)]
 - **HockeyRink:** Dataset for precise ice hockey rink keypoint mapping and analytics [[Dataset](https://huggingface.co/datasets/SimulaMet-HOST/HockeyRink)] [[Paper](https://doi.org/10.1145/3712676.3718338)]
 - **HockeyOrient:** Dataset for ice hockey player orientation classification [[Dataset](https://huggingface.co/datasets/SimulaMet-HOST/HockeyOrient)] [[Paper](https://doi.org/10.1145/3712676.3718342)]
 - **HockeyAI:** Multi-class ice hockey dataset for object detection [[Dataset](https://huggingface.co/datasets/SimulaMet-HOST/HockeyAI)] [[Paper](https://doi.org/10.1145/3712676.3718335)]
