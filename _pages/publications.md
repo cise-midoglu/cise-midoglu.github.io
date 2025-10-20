@@ -16,7 +16,18 @@ Open access publications are indicated with a universal access icon <i class="fa
 ACM badges are indicated with a certificate icon <i class="material-icons">verified</i> 
 
 
+
 ## 2025
+
+<!-- - Matthias Boeker, Andreas Alexandersen, Vajira Thambawita, Cise Midoglu, Dag Johansen, Michael Riegler, Pål Halvorsen. _REST, Exploring Sleep Patterns and Influencing Factors in Elite Female Football Athletes_. <span style="color: lightgray;">Accepted for publication: Nature Scientific Data, 2025.</span>
+
+- Mehdi Houshmand Sarkhoosh, Cise Midoglu, Saeed Shafiee Sabet, Tomas Kupka, Pål Halvorsen. _Hockey2D: A Keypoint-Based Framework for Ice Hockey Rink Localization and Object Mapping_. <span style="color: lightgray;">Accepted for publication: International Conference on Content-Based Multimedia Indexing (CBMI), 2025.</span> 
+
+- Mehdi Houshmand Sarkhoosh, Cise Midoglu, Saeed Shafiee Sabet, Tomas Kupka, Pål Halvorsen. _VoiceVision: AI-Powered Speaker-Aware Cropping and Content Indexing for Multi-Speaker Videos_. <span style="color: lightgray;">Accepted for publication: International Conference on Content-Based Multimedia Indexing (CBMI), 2025.</span> 
+
+- Sushant Gautam, Cise Midoglu, Vajira Lasantha Thambawita, Michael A. Riegler, Pål Halvorsen, Mubarak Shah. _SoccerChat: Integrating Multimodal Data for Enhanced Soccer Game Understanding_. <span style="color: lightgray;">Accepted for publication: International Conference on Content-Based Multimedia Indexing (CBMI), 2025.</span> 
+
+- Mehdi Houshmand Sarkhoosh, Sushant Gautam, Cise Midoglu, Thu Nguyen, Jan Held, Anthony Cioppa, Silvio Giancola, Vajira Thambawita, Michael A. Riegler, Pål Halvorsen. _Beyond Audio: Enhancing SoccerNet-Echoes with Multimodal Event Extraction Using LLMs_. <span style="color: lightgray;">Accepted for publication: International Journal of Semantic Computing (IJSC) Special Issue on ISM 2024, 2025.</span> -->
 
 - Sushant Gautam, Cise Midoglu, Vajira Thambawita, Michael A. Riegler, Pål Halvorsen, Mubarak Shah. _SoccerChat: Integrating Multimodal Data for Enhanced Soccer Game Understanding_. arXiv, 2025. **DOI: [10.48550/arXiv.2505.16630](https://doi.org/10.48550/arXiv.2505.16630)** <i class="fa-solid fa-universal-access"></i>
 
