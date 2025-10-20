@@ -11,6 +11,7 @@ author_profile: true
 ## Sports
 ---
 
+- **SoccerChat:** Multimodal vision-language model for soccer game understanding [[Model](https://huggingface.co/SimulaMet/SoccerChat-qwen2-vl-7b)] [[Code](https://github.com/simula/SoccerChat/)] [[Demo](https://colab.research.google.com/github/Simula/SoccerChat/blob/main/notebooks/WebUI.ipynb)] [[Video](https://www.youtube.com/watch?v=ZsmXupzl-CI)] [[Paper](https://arxiv.org/abs/2505.16630)]
 - **HockeyRink:** Ice hockey rink keypoint mapping and analytics [[Model](https://huggingface.co/SimulaMet-HOST/HockeyRink)] [[Demo](https://huggingface.co/spaces/SimulaMet-HOST/HockeyRink)] [[Video](https://www.youtube.com/watch?v=JCnX4N4fi8I)] [[Paper](https://doi.org/10.1145/3712676.3718338)]
 - **HockeyOrient:** Ice hockey player orientation classification [[Model](https://huggingface.co/SimulaMet-HOST/HockeyOrient)] [[Demo](https://huggingface.co/spaces/SimulaMet-HOST/HockeyOrient)] [[Video 1](https://www.youtube.com/watch?v=ibWJtXZIsM8)] [[Video 2](https://www.youtube.com/watch?v=BZncfkbXp8k)] [[Paper](https://doi.org/10.1145/3712676.3718342)]
 - **HockeyAI:** Ice hockey multi-class object detection [[Model](https://huggingface.co/SimulaMet-HOST/HockeyAI)] [[Demo](https://huggingface.co/spaces/SimulaMet-HOST/HockeyAI)] [[Video](https://www.youtube.com/watch?v=KYnvicVUtOc)] [[Paper](https://doi.org/10.1145/3712676.3718335)]
