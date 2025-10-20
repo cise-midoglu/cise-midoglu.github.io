@@ -15,7 +15,7 @@ author_profile: true
 
 - **Mehdi Houshmand Sarkhoosh**. _Smart Sports Studio (SSS): AI-Powered Tools for Next-Gen Media Production_. Oslo Metropolitan University (OsloMet). <span style="color: lightgray;">Planned completion:  August 2027</span>
 
-- **Sushant Gautam**. _Bridging Multimedia Modalities: Enhanced Multimodal Understanding and Intelligent Agents_ Oslo Metropolitan University (OsloMet). <span style="color: lightgray;">Planned completion:  May 2026</span>
+- **Sushant Gautam**. _Bridging Multimedia Modalities: Enhanced Multimodal Understanding and Intelligent Agents_. Oslo Metropolitan University (OsloMet). <span style="color: lightgray;">Planned completion:  May 2026</span>
 
 
 ## Master Students
@@ -23,7 +23,7 @@ author_profile: true
 
 ### 2025
 
-- **Varun Sharman**. _Automatic Thumbnail Generation for Soccer Content Using Instance Segmentation_. Master's Thesis, Østfold University College (HiØ), August 2025.
+- **Varun Sharman**. _Automatic Thumbnail Generation for Soccer Content Using Instance Segmentation_. Master's Thesis, Østfold University College (HiØ), August 2025. [[Thesis](https://home.simula.no/~paalh/students/2025-HiOF-VarunSharman.pdf)]
 
 - **Mohammad Mainul Hasan**. _Evaluating Storage Solutions for Multimedia-Intensive Survey Frameworks_. Master's Thesis, University of Oslo (UiO), May 2025. [[Thesis](https://home.simula.no/~paalh/students/2025-UiO-MohammadMainulHasan.pdf)]
 
@@ -82,9 +82,9 @@ author_profile: true
 
 - **Sushant Gautam**. _AI-Based Soccer Game Summarization: From Video Highlights to Dynamic Text Summaries_. Master's Thesis, Tribhuvan University, September 2022. [[Thesis](https://home.simula.no/~paalh/students/SushantGautam-2022-TribhuvanUniversity.pdf)]
 
-- **Nourhan Ragab**. _Soccer Athlete Performace Prediction using Time Series Analysis_, Master’s Thesis, Oslo Metropolitan University (OsloMet), May 2022. [[Thesis](https://home.simula.no/~paalh/students/NourhanRagab-OsloMet-2022.pdf)]
+- **Nourhan Ragab**. _Soccer Athlete Performace Prediction using Time Series Analysis_. Master’s Thesis, Oslo Metropolitan University (OsloMet), May 2022. [[Thesis](https://home.simula.no/~paalh/students/NourhanRagab-OsloMet-2022.pdf)]
 
-- **Andreas Husa**. _Automatic Thumbnail Selection for Soccer Videos using Machine Learning_, Master’s Thesis, University of Oslo (UiO), May 2022. [[Thesis](https://home.simula.no/~paalh/students/AndreasHusa-UiO-2022.pdf)]
+- **Andreas Husa**. _Automatic Thumbnail Selection for Soccer Videos using Machine Learning_. Master’s Thesis, University of Oslo (UiO), May 2022. [[Thesis](https://home.simula.no/~paalh/students/AndreasHusa-UiO-2022.pdf)]
 
 
 ### 2020
