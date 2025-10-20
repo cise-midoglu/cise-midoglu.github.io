@@ -94,7 +94,7 @@ author_profile: true
 
 ### 2019
 
-- **Leonhard Wimmer**. _Platform for Measuring Mobile Broadband Performance: Analysis and Implementation_. Technical University of Vienna (TU Wien), June 2019. [[Thesis](http://hdl.handle.net/20.500.12708/8623)] <!-- DOI: https://doi.org/10.34726/hss.2019.43628 -->
+- **Leonhard Wimmer**. _Platform for Measuring Mobile Broadband Performance: Analysis and Implementation_. Master’s Thesis, Technical University of Vienna (TU Wien), June 2019. [[Thesis](http://hdl.handle.net/20.500.12708/8623)] <!-- DOI: https://doi.org/10.34726/hss.2019.43628 -->
 
 - **Shweta Vilas Wakalkar**. _Crowd Matters: Analysis of Different Crowdsourced Datasets for Network Performance Evaluation_. Master's Thesis, University of Oslo (UiO), August 2019.
 
