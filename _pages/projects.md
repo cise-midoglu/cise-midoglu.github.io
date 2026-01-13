@@ -11,12 +11,12 @@ author_profile: true
 ---
 
 - **Duration:** 2026-2027  
-**Project:** AI-Orchestrator: Efficient Sports Content Production  
+**Project:** [AI-Orchestrator: Efficient Sports Content Production](https://prosjektbanken.forskningsradet.no/en/project/FORISS/360602)  
 **Funding:** RCN Innovation  
 **Role:** Participant / WP Lead  
 
-- **Project:** [Forcalytics: Real-Time Soccer Analysis](https://prosjektbanken.forskningsradet.no/project/FORISS/356286?Kilde=FORISS)  
-**Duration:** 2025-2026  
+- **Duration:** 2025-2026  
+**Project:** [Forcalytics: Real-Time Soccer Analysis](https://prosjektbanken.forskningsradet.no/project/FORISS/356286?Kilde=FORISS)  
 **Funding:** RCN Innovation  
 **Role:** Participant
 
@@ -25,14 +25,14 @@ author_profile: true
 **Funding:** RCN Industrial PhD Scheme  
 **Role:** Participant  
 
+
+## Past
+---
+
 - **Duration:** 2024-2025  
 **Project:** [AI-Storyteller: Intelligent Content Curation for Sports](https://prosjektbanken.forskningsradet.no/project/FORISS/346671?Kilde=FORISS)  
 **Funding:** RCN Innovation  
 **Role:** Participant  
-
-
-## Past
----
 
 - **Duration:** 2022-2024  
 **Project:** [P.BBQCG: Parametric bitstream-based Quality Assessment of Cloud Gaming Services](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=17809)  
@@ -63,3 +63,14 @@ author_profile: true
 **Project:** [MONROE: Measuring Mobile Broadband Networks in Europe](https://cordis.europa.eu/project/id/644399)  
 **Funding:** EU Horizon 2020  
 **Role:** Contributor <!-- (2016-2018) -->
+
+<!-- - **Duration:** ...  
+**Project:** ...  
+**Funding:** ...  
+**Role:** ...   -->
+
+
+<!-- 
+Methodical Solution for Cooperative Hybrid Performance Analytics in Mobile Networks (Mc.Hypa-Miner)
+Exploration of Possibilities for Utilizing Signal Quality Data of Cellular Radio Networks for Precise Weather Nowcasts (MobComWeather)
+ -->

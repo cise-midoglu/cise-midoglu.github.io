@@ -29,5 +29,5 @@ main:
   # - title: "Community"
   #   url: /community/
 
-  # - title: "Projects"
-  #   url: /projects/
+  - title: "Projects"
+    url: /projects/
