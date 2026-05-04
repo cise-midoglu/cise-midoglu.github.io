@@ -21,6 +21,13 @@ author_profile: true
 ## Master Students
 ---
 
+### Ongoing
+
+- **Aliaan Nadeem Azam**. _AI-Based Thumbnail Generation for Soccer Clips using Multi-Signal Analysis_. University of Oslo (UiO). <span style="color: lightgray;">Planned completion:  June 2026</span>
+
+- **Daniel K. Bjørdal**. _AI and Rule-Based Pipeline for Time-Budgeted Football Highlight Generation_. Oslo Metropolitan University (OsloMet). <span style="color: lightgray;">Planned completion:  June 2026</span>
+
+
 ### 2025
 
 - **Varun Sharman**. _Automatic Thumbnail Generation for Soccer Content Using Instance Segmentation_. Master's Thesis, Østfold University College (HiØ), August 2025. [[Thesis](https://home.simula.no/~paalh/students/2025-HiOF-VarunSharman.pdf)]
@@ -46,7 +53,7 @@ author_profile: true
 
 - **Kutbettin Kizilkaya**. _Mathematical Modeling of Soccer Games and Leagues using Bayesian Statistics_. Master's Thesis, University of Oslo, November 2024. [[Thesis](https://home.simula.no/~paalh/students/2024-UiO-KutbettinKizilkaya.pdf)]
 
-- **Md Mohaiminul Islam Emon**. _Predictng Injuries in Norwegian Women's Soccer Players: A Machine Learning Approach_. Master's Thesis, Østfold University College (HiØ), June 2024. [[Thesis](https://home.simula.no/~paalh/students/2024-HIOF-MdMohaiminulIslamEmon.pdf)]
+- **Md Mohaiminul Islam Emon**. _Predicting Injuries in Norwegian Women's Soccer Players: A Machine Learning Approach_. Master's Thesis, Østfold University College (HiØ), June 2024. [[Thesis](https://home.simula.no/~paalh/students/2024-HIOF-MdMohaiminulIslamEmon.pdf)]
 
 - **Mehdi Houshmand Sarkhoosh**. _Multimodal AI-Based Summarization and Storytelling for Soccer on Social Media_. Master's Thesis, Oslo Metropolitan University (OsloMet), May 2024. [[Thesis](https://home.simula.no/~paalh/students/2024-OsloMet-MehdiHoushmandSarkhoosh.pdf)]
 
