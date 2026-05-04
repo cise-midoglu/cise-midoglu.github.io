@@ -11,7 +11,7 @@ author_profile: true
 ## Invited Talks
 ---
 
-- _LLMs and Sports Multimedia: What Can Conversational Agens Offer Soccer?_  
+- _LLMs and Sports Multimedia: What Can Conversational Agents Offer Soccer?_  
 [Streaming Tech Sweden](https://www.streamingtech.se/), Stockholm, 2024 [[Video](https://www.youtube.com/watch?v=1wdr5oMRJWk)]
 
 - _AI-Based Multimedia Production for Association Football_  
