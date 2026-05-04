@@ -10,7 +10,7 @@ author_profile: true
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
       rel="stylesheet">
 
-Versions of this list can also be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=EFEA-vcAAAAJ), [ORCiD](https://orcid.org/0000-0003-0991-4418), and [ResearchGate](https://www.researchgate.net/profile/Cise-Midoglu).  
+Versions of this list can also be found on [arXiv](https://arxiv.org/a/midoglu_c_1), [DBLP](https://dblp.org/pid/178/8808.html), [Google Scholar](https://scholar.google.com/citations?hl=en&user=EFEA-vcAAAAJ), [ORCiD](https://orcid.org/0000-0003-0991-4418), and [ResearchGate](https://www.researchgate.net/profile/Cise-Midoglu).  
 
 Open access publications are indicated with a universal access icon <i class="fa-solid fa-universal-access"></i>  
 ACM badges are indicated with a certificate icon <i class="material-icons">verified</i> 

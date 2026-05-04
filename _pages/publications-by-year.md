@@ -1,19 +1,31 @@
 
+## 2026
+
+- Matthias Boeker, Andreas Alexandersen, Vajira Thambawita, Cise Midoglu, Dag Johansen, Michael A. Riegler, Pål Halvorsen. _REST, Exploring Sleep Patterns and Influencing Factors in Elite Female Football Athletes_. Nature Scientific Data, 2026. **DOI: [10.1038/s41597-025-06331-8](https://doi.org/10.1038/s41597-025-06331-8)** <i class="fa-solid fa-universal-access"></i>
+
+- Mehdi Houshmand Sarkhoosh, Cise Midoglu, Saeed Shafiee Sabet, Tomas Kupka, Dag Johansen, Pål Halvorsen. _SportSBD: Shot Boundary Detection in Sports Footage_. 17th ACM Multimedia Systems Conference (MMSys'26), 2026. **DOI: [10.1145/3793853.3799803](https://doi.org/10.1145/3793853.3799803)** <i class="material-icons">verified</i> <i class="fa-solid fa-universal-access"></i>
+
+- Victoria Catterall, Cise Midoglu, Stephen Lynch. _Time-to-Injury Forecasting in Elite Female Football: A DeepHit Survival Approach_. arXiv, 2026. **DOI: [10.48550/arXiv.2601.08557](https://doi.org/10.48550/arXiv.2601.08557)** <i class="fa-solid fa-universal-access"></i>
+
+- Sushant Gautam, Cise Midoglu, Vajira Thambawita, Michael A. Riegler, Pål Halvorsen. _VideoHEDGE: Entropy-Based Hallucination Detection for Video-VLMs via Semantic Clustering and Spatiotemporal Perturbations_. arXiv, 2026. **DOI: [10.48550/arXiv.2601.19479](https://doi.org/10.48550/arXiv.2601.19479)** <i class="fa-solid fa-universal-access"></i>
+
+
+
 ## 2025
 
-<!-- - Matthias Boeker, Andreas Alexandersen, Vajira Thambawita, Cise Midoglu, Dag Johansen, Michael Riegler, Pål Halvorsen. _REST, Exploring Sleep Patterns and Influencing Factors in Elite Female Football Athletes_. <span style="color: lightgray;">Accepted for publication: Nature Scientific Data, 2025.</span> -->
+- Ole Kristian Rustebakke, Mehdi Houshmand Sarkhoosh, Cise Midoglu, Pål Halvorsen. _Extracting Player Speed from Football Videos_. IEEE International Symposium on Multimedia (ISM), 2025. **DOI: [10.1109/ISM66958.2025.00058](https://doi.org/10.1109/ISM66958.2025.00058)**
 
-- Ole Kristian Rustebakke, Mehdi Houshmand Sarkhoosh, Cise Midoglu, Pål Halvorsen. _Extracting Player Speed from Football Videos_. IEEE International Symposium on Multimedia (ISM), 2025. **DOI: TBD**
+- Mehdi Houshmand Sarkhoosh, Frøy Øye, Henrik Nestor Sørlie, Nam Hoang Vu, Dag Johansen, Cise Midoglu, Tomas Kupka, Pål Halvorsen. _ExposureEngine: Oriented Logo Detection and Sponsor Visibility Analytics in Sports Broadcasts_. IEEE International Symposium on Multimedia (ISM), 2025. **DOI: [10.1109/ISM66958.2025.00059](https://doi.org/10.1109/ISM66958.2025.00059)** [[arXiv]](https://doi.org/10.48550/arXiv.2510.04739) <i class="fa-solid fa-universal-access"></i>
 
-- Mehdi Houshmand Sarkhoosh, Frøy Øye, Henrik Nestor Sørlie, Nam Hoang Vu, Dag Johansen, Cise Midoglu, Tomas Kupka, Pål Halvorsen. _ExposureEngine: Oriented Logo Detection and Sponsor Visibility Analytics in Sports Broadcasts_. IEEE International Symposium on Multimedia (ISM), 2025. **DOI: TBD** [[arXiv]](https://doi.org/10.48550/arXiv.2510.04739) <i class="fa-solid fa-universal-access"></i>
+- Mehdi Houshmand Sarkhoosh, Sushant Gautam, Cise Midoglu, Thu Nguyen, Jan Held, Anthony Cioppa, Silvio Giancola, Vajira Thambawita, Michael A. Riegler, Pål Halvorsen. _Beyond Audio: Enhancing SoccerNet-Echoes with Multimodal Event Extraction Using LLMs_. International Journal of Semantic Computing (IJSC)<!-- Special Issue on ISM 2024-->, 2025. **DOI: [10.1142/S1793351X25450035](https://doi.org/10.1142/S1793351X25450035)**
 
-- Mehdi Houshmand Sarkhoosh, Sushant Gautam, Cise Midoglu, Thu Nguyen, Jan Held, Anthony Cioppa, Silvio Giancola, Vajira Thambawita, Michael A. Riegler, Pål Halvorsen. _Beyond Audio: Enhancing SoccerNet-Echoes with Multimodal Event Extraction Using LLMs_. International Journal of Semantic Computing (IJSC)<!-- Special Issue on ISM 2024-->, 2025. **DOI: TBD**
+- Mehdi Houshmand Sarkhoosh, Cise Midoglu, Saeed Shafiee Sabet, Tomas Kupka, Pål Halvorsen. _Hockey2D: A Keypoint-Based Framework for Ice Hockey Rink Localization and Object Mapping_. International Conference on Content-Based Multimedia Indexing (CBMI), 2025. **DOI: [10.1109/CBMI66578.2025.11339314](https://doi.org/10.1109/CBMI66578.2025.11339314)**
 
-- Mehdi Houshmand Sarkhoosh, Cise Midoglu, Saeed Shafiee Sabet, Tomas Kupka, Pål Halvorsen. _Hockey2D: A Keypoint-Based Framework for Ice Hockey Rink Localization and Object Mapping_. International Conference on Content-Based Multimedia Indexing (CBMI), 2025. **DOI: TBD**
+- Mehdi Houshmand Sarkhoosh, Cise Midoglu, Saeed Shafiee Sabet, Tomas Kupka, Pål Halvorsen. _VoiceVision: AI-Powered Speaker-Aware Cropping and Content Indexing for Multi-Speaker Videos_. International Conference on Content-Based Multimedia Indexing (CBMI), 2025. **DOI: [10.1109/CBMI66578.2025.11339302](https://doi.org/10.1109/CBMI66578.2025.11339302)**
 
-- Mehdi Houshmand Sarkhoosh, Cise Midoglu, Saeed Shafiee Sabet, Tomas Kupka, Pål Halvorsen. _VoiceVision: AI-Powered Speaker-Aware Cropping and Content Indexing for Multi-Speaker Videos_. International Conference on Content-Based Multimedia Indexing (CBMI), 2025. **DOI: TBD**
+- Sushant Gautam, Cise Midoglu, Vajira Lasantha Thambawita, Michael A. Riegler, Pål Halvorsen, Mubarak Shah. _SoccerChat: Integrating Multimodal Data for Enhanced Soccer Game Understanding_. International Conference on Content-Based Multimedia Indexing (CBMI), 2025. **DOI: [10.1109/CBMI66578.2025.11339347](https://doi.org/10.1109/CBMI66578.2025.11339347)** [[arXiv]](https://doi.org/10.48550/arXiv.2505.16630) <i class="fa-solid fa-universal-access"></i>
 
-- Sushant Gautam, Cise Midoglu, Vajira Lasantha Thambawita, Michael A. Riegler, Pål Halvorsen, Mubarak Shah. _SoccerChat: Integrating Multimodal Data for Enhanced Soccer Game Understanding_. International Conference on Content-Based Multimedia Indexing (CBMI), 2025. **DOI: TBD** [[arXiv]](https://doi.org/10.48550/arXiv.2505.16630) <i class="fa-solid fa-universal-access"></i>
+- Mehdi Houshmand Sarkhoosh, Cise Midoglu, Saeed Shafiee Sabet, Tomas Kupka, Michael Alexander Riegler, Pål Halvorsen. _LangGraph-Powered Conversational AI for Intelligent Sports Highlight Discovery_. Nordic Machine Intelligence, 2025. **DOI: [10.5617/nmi.12551](https://doi.org/10.5617/nmi.12551)** [Poster Abstract]
 
 - Mehdi Houshmand Sarkhoosh, Sushant Gautam, Cise Midoglu, Saeed Shafiee Sabet, Tomas Kupka, Pål Halvorsen. _HockeyRink: A Dataset for Precise Ice Hockey Rink Keypoint Mapping and Analytics_. 16th ACM Multimedia Systems Conference (MMSys'25), 2025. **DOI: [10.1145/3712676.3718338](https://doi.org/10.1145/3712676.3718338)**
 
@@ -31,7 +43,7 @@
 
 - Sushant Gautam, Mehdi Houshmand Sarkhoosh, Jan Held, Cise Midoglu, Anthony Cioppa, Silvio Giancola, Vajira Thambawita, Michael A. Riegler, Pal Halvorsen, Mubarak Shah. _SoccerNet-Echoes: A Soccer Game Audio Commentary Dataset_. IEEE International Symposium on Multimedia (ISM), 2024. **DOI: [10.1109/ISM63611.2024.00016](https://doi.org/10.1109/ISM63611.2024.00016)** <i class="fa-solid fa-universal-access"></i>
 
-- Finn Bartels, Lu Xing, Cise Midoglu, Matthias Boeker, Toralf Kirsten, Pål Halvorsen. _SoccerGuard: Investigating Injury Risk Factors for Professional Soccer Players with Machine Learning_. arXiv, 2024. **DOI: [https://doi.org/10.48550/arXiv.2411.08901](https://doi.org/10.48550/arXiv.2411.08901)** <i class="fa-solid fa-universal-access"></i>
+- Finn Bartels, Lu Xing, Cise Midoglu, Matthias Boeker, Toralf Kirsten, Pål Halvorsen. _SoccerGuard: Investigating Injury Risk Factors for Professional Soccer Players with Machine Learning_. arXiv, 2024. **DOI: [10.48550/arXiv.2411.08901](https://doi.org/10.48550/arXiv.2411.08901)** <i class="fa-solid fa-universal-access"></i>
 
 - Sushant Gautam, Andrea M. Storås, Cise Midoglu, Steven A. Hicks, Vajira Thambawita, Pål Halvorsen, Michael A. Riegler. _Kvasir-VQA: A Text-Image Pair GI Tract Dataset_. First International Workshop on Vision-Language Models for Biomedical Applications (VLM4Bio'24), 2024. **DOI: [10.1145/3689096.3689458](https://doi.org/10.1145/3689096.3689458)** <i class="fa-solid fa-universal-access"></i>
 
