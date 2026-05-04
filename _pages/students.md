@@ -110,7 +110,9 @@ author_profile: true
 
 - **José Luis Martín Gonzálvez**. _Detection of User Profiles and Tariff Classes in Mobile Networks Using Machine Learning Algorithms_. Master's Thesis, Technical University of Vienna (TU Wien), 2016.
 
+- **A. Martinez Castillo**. _Temporal and Spatial Correlation Analysis for Mobile Network Benchmarking_. Master's Thesis, Technical University of Vienna (TU Wien), 2016.
 
+- **Martin Horak**. _Data Visualization Framework for Crowdsourced Network Performance Measurements_. Master's Thesis, Technical University of Vienna (TU Wien), 2016.
 
 ## Bachelor Students
 ---
